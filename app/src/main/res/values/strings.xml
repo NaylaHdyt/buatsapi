@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">popup</string>
+    <string name="this_is_a_popup_window">This is a popup window.</string>
+    <string name="show_popup_window">Show Popup Window</string>
+    <string name="this_is_a_sample_popup_window">This is a sample popup window.</string>
+    <string name="keutamaan">Keutamaan Haji</string>
+    <string name="aliimran97">وَلِلَّهِ عَلَى النَّاسِ حِجُّ الْبَيْتِ مَنِ اسْتَطَاعَ إِلَيْهِ سَبِيلًا
+    \n\n
+        “Mengerjakan haji adalah kewajiban manusia terhadap Allah, yaitu bagi yang sanggup mengadakan perjalanan ke baitullah” (QS Ali-Imran 97).</string>
+    <string name="qs_ali_imran_97">QS.Ali Imran : 97</string>
+    <string name="hr_bukhari8_muslim16">HR. Bukhari no 8 dan Muslim no 16</string>
+    <string name="hr_bukahrimuslim816">بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ: شَهَادَةِ أَنْ لاَ إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالحَجِّ، وَصَوْمِ رَمَضَانَ
+    \n\n
+        “Islam dibangun di atas 5 rukun, syahadatain, menegakan sholat, menunaikan zakat, berhaji, dan berpuasa di bulan Ramadhan” (HR Al-Bukhari no 8 dan Muslim no 16).</string>
+    <string name="_1_rukun_islam_yang_kelima">1.Rukun Islam yang Kelima</string>
+    <string name="_2_mendapatkan_surga">2.Mendapatkan Surga</string>
+    <string name="hr_bukhari1773_muslim1349">HR. Bukhari no 1773 dan Muslim no 1349 dan Abu Hurairah r.a</string>
+    <string name="hr_bukharimuslim1749">الْعُمْرَةُ إِلَى الْعُمْرَةِ كَفَّارَةٌ لِمَا بَيْنَهُمَا، وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلاَّ الْجَنَّةُ
+    \n\n
+        “Sesungguhnya umrah yang satu hingga umrah yang berikutnya merupakan penebus dosa-dosa yang ada diantara kedua umrah tersebut, dan haji yang mabrūr tidak ada balasan baginya yang setimpal kecuali surga.” (Hadīts riwayat Al-Bukhāri nomor 1773 dan Muslim nomor 1349 dari hadīts Abū Hurairah Radhiyallāhu ‘anhu).</string>
+    <string name="_3_menghilangkan_dosa">3.Menghilangkan Dosa dan Kemiskinan</string>
+    <string name="hr_tirmidzi_annasai_1200">HR. Tirmidzi dan An-Nasa\'i, disahihkan oleh Al-Albani dalam As-Sahihah no 1200</string>
+    <string name="hr_tirmidziannasai1200">تَابِعُوا بَيْنَ الْحَجِّ وَالْعُمْرَةِ فَإِنَّهُمَا يَنْفِيَانِ الْفَقْرَ وَالذُّنُوبَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ وَالذَّهَبِ وَالْفِضَّةِ وَلَيْسَ لِلْحَجَّةِ الْمَبْرُورَةِ ثَوَابٌ إِلَّا الْجَنَّةَ
+    \n\n
+        “Tunaikanlah haji dan umrah secara silih berganti, karena haji dan umrah itu bisa menghilangkan kefakiran dan juga bisa menghilangkan dosa-dosa sebagaimana alat tiup pandai besi untuk menghilangkan kotoran besi/karat besi, emas, dan perak” (Hadīts diriwayat oleh Tirmidzi dan An Nasāi, dan dishahihkan oleh Al-Albani dalam As-Shahihah No. 1200).</string>
+    <string name="desc1">Terdapat dalam Al-Qur\\\'an dan Hadist, sebagai berikut :</string>
+    <string name="desc2">Terdapat dalam Hadist, sebagai berikut :</string>
+    <string name="desc3">di shahihkan oleh Al-Bani</string>
+</resources>
